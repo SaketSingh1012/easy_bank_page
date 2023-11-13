@@ -1,4 +1,4 @@
-# Link to Netlify:
+# Link to Vercel:
 ## [Easy - bank](https://easy-bank-page-six.vercel.app/)
 
 # To download the project
