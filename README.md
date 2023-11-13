@@ -1,2 +1,2 @@
 # Link to Netlify:
-## https://easy-bank-page-saket.netlify.app/
+## [Easy - bank](https://easy-bank-page-saket.netlify.app/)
